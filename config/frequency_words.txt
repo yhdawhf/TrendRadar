@@ -3,15 +3,6 @@
 
 DeepSeek
 
-
-英伟达
-NVIDIA
-黄仁勋
-
-AMD
-
-谷歌
-google
 gemini
 deepmind
 
@@ -22,18 +13,12 @@ sora
 claude
 Anthropic
 
-iphone
-ipad
-mac
-ios
+
 
 ai
 !gai
 人工智能
 
-自动驾驶
-
-机器人
 
 科技
 
